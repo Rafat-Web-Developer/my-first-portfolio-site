@@ -1,0 +1,60 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.rafat-container {
+  width: 1170px;
+  margin: auto;
+}
+.rafat-fs-50 {
+  font-size: 50px;
+}
+.rafat-black-color {
+  color: black;
+}
+.rafat-orange-color {
+  color: #fc6656;
+}
+.rafat-border-left-5x {
+  border-left: 5px solid #fc6656;
+}
+.rafat-pl-15x {
+  padding-left: 10px;
+}
+#rafat-first-section {
+  margin-top: 20px;
+}
+.rafat-row {
+  width: 100%;
+  display: flex;
+}
+.rafat-col-06 {
+  width: 50%;
+}
+#rafat-first-section-content {
+  margin-top: 150px;
+}
+#rafat-first-section-content p {
+  color: rgb(88, 87, 87);
+  font-size: 18px;
+  font-weight: 550;
+  margin: 25px 0px;
+}
+.rafat-link {
+  text-decoration: none;
+  background-color: #fc6656;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 550;
+}
+.rafat-link:hover {
+  background-color: #c7574b;
+}
+.rafat-col-06 img {
+  width: 80%;
+  margin-left: 50px;
+}
