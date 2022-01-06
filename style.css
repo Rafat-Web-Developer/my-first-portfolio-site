@@ -9,6 +9,9 @@ body {
   width: 1170px;
   margin: auto;
 }
+.rafat-font-style {
+  font-family: "Lobster", cursive;
+}
 .rafat-fs-50 {
   font-size: 50px;
 }
@@ -170,6 +173,9 @@ footer {
   color: white;
   text-align: center;
   padding: 50px 0px;
+}
+.footer-text h1 {
+  font-family: "Lobster", cursive;
 }
 .footer-text p {
   margin-top: 20px;
