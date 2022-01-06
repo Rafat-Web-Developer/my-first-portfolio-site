@@ -40,6 +40,12 @@ body {
 .rafat-col-06 {
   width: 50%;
 }
+.rafat-col-05 {
+  width: 38%;
+}
+.rafat-col-07 {
+  width: 58%;
+}
 .rafat-col-04 {
   width: 28%;
   padding: 3%;
@@ -103,4 +109,33 @@ body {
 }
 #rafat-second-section .rafat-col-04:last-child {
   margin-right: 0;
+}
+#rafat-third-section {
+  margin-top: 100px;
+}
+.rafat-mr-2x {
+  margin-right: 2%;
+}
+.rafat-ml-4x {
+  margin-left: 4%;
+}
+#rafat-third-section .rafat-col-05 img {
+  width: 80%;
+}
+#rafat-third-section .rafat-col-07 h1 {
+  font-size: 40px;
+}
+#rafat-third-section .rafat-col-07 p {
+  font-weight: 600;
+  color: #9e9a9a;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+#rafat-g-c {
+  margin-top: 100px;
+}
+#rafat-g-c .rafat-col-05 img {
+  width: 90%;
+  float: right;
 }
