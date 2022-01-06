@@ -12,6 +12,9 @@ body {
 .rafat-fs-50 {
   font-size: 50px;
 }
+.rafat-fs-40 {
+  font-size: 40px;
+}
 .rafat-black-color {
   color: black;
 }
@@ -24,6 +27,9 @@ body {
 .rafat-pl-15x {
   padding-left: 10px;
 }
+.rafat-mt-30x {
+  margin-top: 30px;
+}
 #rafat-first-section {
   margin-top: 20px;
 }
@@ -33,6 +39,23 @@ body {
 }
 .rafat-col-06 {
   width: 50%;
+}
+.rafat-col-04 {
+  width: 28%;
+  padding: 3%;
+  margin: 2%;
+}
+.rafat-card {
+  border-radius: 25px;
+}
+.rafat-card-color-1 {
+  background-color: #efeff2;
+}
+.rafat-card-color-2 {
+  background-color: #f0e2e1;
+}
+.rafat-card-color-3 {
+  background-color: #e5f1f4;
 }
 #rafat-first-section-content {
   margin-top: 150px;
@@ -57,4 +80,27 @@ body {
 .rafat-col-06 img {
   width: 80%;
   margin-left: 50px;
+}
+#rafat-second-section {
+  margin-top: 100px;
+}
+#rafat-second-section h1 {
+  text-align: center;
+}
+#rafat-second-section .rafat-col-04 img {
+  width: 40%;
+}
+#rafat-second-section .rafat-col-04 h2 {
+  margin: 12px 0px;
+}
+#rafat-second-section .rafat-col-04 p {
+  font-size: 18px;
+  font-weight: 500;
+  text-align: justify;
+}
+#rafat-second-section .rafat-col-04:first-child {
+  margin-left: 0;
+}
+#rafat-second-section .rafat-col-04:last-child {
+  margin-right: 0;
 }
